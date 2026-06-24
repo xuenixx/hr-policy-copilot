@@ -1,0 +1,5 @@
+streamlit
+anthropic
+chromadb
+pymupdf
+pypdf2
